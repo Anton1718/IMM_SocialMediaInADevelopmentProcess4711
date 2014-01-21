@@ -1,1 +1,7 @@
 pdflatex Ausarbeitung.tex && bibtex Ausarbeitung.aux && pdflatex Ausarbeitung.tex && pdflatex Ausarbeitung.tex
+
+oder in TeXworks:
+pdflatex
+bibtex
+pdflatex
+pdflatex
